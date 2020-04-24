@@ -1,1 +1,5 @@
-console.console.error("HALP!");
+console.error("HALP!")
+
+console.log("Logging!")
+
+console.warn("Warning!")
